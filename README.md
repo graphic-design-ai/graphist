@@ -43,7 +43,7 @@ Graphist effectively reinterprets HLG by treating it as a sequence generation pr
 
 ## To-Do List
 - [ ] Release the Graphist checkpoint trained with the Crello dataset
-- [ ] Publish layout results from the Crello dataset
+- [ ] Publish layout results on the Crello dataset
 
 ## Cite
  <p id="bib">If you find this work beneficial, please cite it. We look forward to more researchers paying attention to the HLG task. </p>
